@@ -1,32 +1,32 @@
 [
     {
         "name": "Company A",
-        "client_since": "00-00-0000",
-        "logo": "url"
+        "member_since": "00-00-0000",
+        "logo": "https://raw.githubusercontent.com/ramown/mock/main/assets/imgs/a.svg"
     },
     {
         "name": "Company B",
-        "client_since": "00-00-0000",
-        "logo": "url"
+        "member_since": "00-00-0000",
+        "logo": "https://raw.githubusercontent.com/ramown/mock/main/assets/imgs/b.svg"
     },
     {
         "name": "Company C",
-        "client_since": "00-00-0000",
-        "logo": "url"
+        "member_since": "00-00-0000",
+        "logo": "https://raw.githubusercontent.com/ramown/mock/main/assets/imgs/c.svg"
     },
     {
         "name": "Company D",
-        "client_since": "00-00-0000",
-        "logo": "url"
+        "member_since": "00-00-0000",
+        "logo": "https://raw.githubusercontent.com/ramown/mock/main/assets/imgs/d.svg"
     },
     {
         "name": "Company E",
-        "client_since": "00-00-0000",
-        "logo": "url"
+        "member_since": "00-00-0000",
+        "logo": "https://raw.githubusercontent.com/ramown/mock/main/assets/imgs/e.svg"
     },
     {
         "name": "Company F",
-        "client_since": "00-00-0000",
-        "logo": "url"
+        "member_since": "00-00-0000",
+        "logo": "https://raw.githubusercontent.com/ramown/mock/main/assets/imgs/f.svg"
     }
 ]
