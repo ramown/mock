@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Company A",
+        "client_since": "00-00-0000",
+        "logo": "url"
+    },
+    {
+        "name": "Company B",
+        "client_since": "00-00-0000",
+        "logo": "url"
+    },
+    {
+        "name": "Company C",
+        "client_since": "00-00-0000",
+        "logo": "url"
+    },
+    {
+        "name": "Company D",
+        "client_since": "00-00-0000",
+        "logo": "url"
+    },
+    {
+        "name": "Company E",
+        "client_since": "00-00-0000",
+        "logo": "url"
+    },
+    {
+        "name": "Company F",
+        "client_since": "00-00-0000",
+        "logo": "url"
+    }
+]
